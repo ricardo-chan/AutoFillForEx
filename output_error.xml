@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Historical Foreign Exchange Rates for Euro (EUR) ()</title>
+	<link>http://www.floatrates.com/currency/eur/</link>
+	<xmlLink>http://www.floatrates.com/daily/eur.xml</xmlLink>
+	<description>XML historical foreign exchange rates for Euro (EUR) from the Float Rates. Published at .</description>
+	<language>en</language>
+	<baseCurrency>EUR</baseCurrency>
+	<pubDate></pubDate>
+	<lastBuildDate></lastBuildDate>
+	<message>Can't find any rates for <b>EUR</b> on selected date: 1 Mar 2022</message>
+	
+	
+</channel>
+
