@@ -11,7 +11,7 @@ to get historical exchange rates and fill in my spreadsheet manually every other
 I finally got around to automating it, using some basic web scraping with the [requests](https://docs.python-requests.org/en/latest/)
 library, as well as [openpyxl](https://openpyxl.readthedocs.io/en/stable/).
 
-In case it is useful, an example XML is included [here](output.xml) and [here](output_error.xml)
+In case it is useful, an example XML is included [here](output.xml) and [here](output_error.xml).
 output.xml is the regular download from the website, output_error.xml is one
 where the website happened to not have any data available. The script does not account
 for this however, it simply doesn't populate the corresponding cell.
