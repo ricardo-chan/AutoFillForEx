@@ -1,3 +1,6 @@
+# Author: Ricardo Chan
+# Date:   15/03/2022
+
 import sys
 import requests
 import xml.etree.ElementTree as ET
