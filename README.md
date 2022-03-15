@@ -20,6 +20,7 @@ for this however, it simply doesn't populate the corresponding cell.
 
 * Install requirements shown on [requirements.txt](requirements.txt) with pip in a virtual
 environment if desired.
+* Change code on line 47 to the path of the file you want to modify.
 * Run as such:
 
 ```
